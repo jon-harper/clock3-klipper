@@ -16,8 +16,8 @@ This repository contains a ready-to-go Klipper configuration for the stock confi
 - Extruder Stepper: Stepperonline 17HS10-0704S / 0.7A, 1.8 degree
 - Fans:
   - Hotend fan (24V)
-  - Part cooling fan (24V)
-  - Chamber: 2 blowers (24V)
+  - Part cooling fan (12 or 24V)
+  - Chamber: *in progress*
   - Electronics: 3-4 fans (12V)
   
 The main repository for Clock 3, including documentation, can be found [here](https://github.com/jon-harper/clock3).
